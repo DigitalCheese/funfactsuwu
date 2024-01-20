@@ -1,10 +1,13 @@
-body {background-color:white;color:black;font-size:14px;font-family:'Courier New', 'Arial', 'sans-serif', 'Times New Roman', 'monospace';word-wrap:break-word;}
+body {background-color:white;color:black!important;font-size:14px;font-family:'Courier New', 'Arial', 'sans-serif', 'Times New Roman', 'monospace';margin:0;word-wrap:break-word;}
 div.head {background:#CCC;text-align:right;padding:2px;}
 div.head IMG {float:left;}
-div.nav {background:#AAA;text-align:center;padding:4px;border-bottom:2px white solid;}
-div.main {max-width:1280px;text-align:center;}
-div.foot {background:black;width:100%;text-align:center;}
+div.nav {background:#AAA;font-weight:bold;text-align:center;padding:4px;border-bottom:2px white solid;}
+div.main {max-width:100%;text-align:center;}
+div.foot {background:black;color:white!important;width:100%;text-align:center;padding:4px}
 
+a {color:black}
+a:hover {color:#730093}
+div.foot a {color:white!important}
 p1.ext {font-size:10px;}
 h1[id]:target, h2[id]:target, h4[id]:target {color:gold;text-underline-offset:6px;}
 
