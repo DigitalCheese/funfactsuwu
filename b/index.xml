@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://funfacts.top/b/index.xml" rel="self" type="application/rss+xml" />
+<title>Fun Facts Community Blog</title>
+<link>https://funfacts.top/b/</link>
+<description>The official Fun Facts Community blog RSS feed. Updates will be shared here as necessary.</description>
+<language>en-us</language>
+    <item>
+    <title>Test</title>
+    <pubDate>Sat, 20 Jan 2024 11:42:35</pubDate>
+    <link>https://digitalcheese.xyz/</link>
+    <guid>firstpagelmao</guid>
+    <description>Hello! If you are seeing this entry, the RSS feed is working properly. Enjoy your notifications of this blog, we shall occasionally update the blog page.</description>
+    </item>
+</channel>
+</rss>
